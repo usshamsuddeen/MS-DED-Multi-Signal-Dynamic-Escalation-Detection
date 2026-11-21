@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or reference this research, please cite it as below."
+title: "Multi-Signal Dynamic Escalation Detection Using Emotional Velocity and False-Positive Suppression in Customer Service AI"
+type: software
+authors:
+  - family-names: Ahmed
+    given-names: Muhammad Abdullah
+    affiliation: "Khwaja Fareed University of Engineering and Information Technology (KFUEIT)"
+  - family-names: Shams
+    given-names: Muhammad Usman
+    affiliation: "Khwaja Fareed University of Engineering and Information Technology (KFUEIT)"
+    orcid: "https://orcid.org/0009-0006-2883-7947"
+  - family-names: Hassan
+    given-names: Zeenat
+    affiliation: "Khwaja Fareed University of Engineering and Information Technology (KFUEIT)"
+  - family-names: Hussain
+    given-names: Zakriya
+    affiliation: "Khwaja Fareed University of Engineering and Information Technology (KFUEIT)"
+  - family-names: Shams
+    given-names: Muhammad Jawad
+    affiliation: "Khwaja Fareed University of Engineering and Information Technology (KFUEIT)"
+repository-code: "https://github.com/usshamsuddeen/MS-DED-Multi-Signal-Dynamic-Escalation-Detection"
+keywords:
+  - affective-decision-support
+  - human-in-the-loop-ai
+  - escalation-dynamics
+  - customer-churn-prevention
+  - exponential-moving-average
+  - false-positive-suppression
+  - behavioral-agentic-ai
+license: MIT
+date-released: "2026-11-21"

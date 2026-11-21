@@ -1,0 +1,5 @@
+Model_Architecture,Precision,Recall,F1_Score,AUC_ROC,AUC_PR,False_Alarm_Rate_Traps_Pct
+MS-DED (Ours),0.9953,0.841,0.9117,0.996,0.9925,0.3
+Zero-Shot LLM Prompt,0.8193,0.898,0.8569,0.9642,0.9338,18.4
+Sentiment Thresholding,0.6029,0.797,0.6865,0.8467,0.7037,49.4
+Keyword Matching Baseline,0.4732,0.777,0.5882,0.6951,0.4256,86.2

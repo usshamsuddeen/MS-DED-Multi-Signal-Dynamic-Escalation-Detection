@@ -1,0 +1,13 @@
+{
+  "paper": "Paper 5: Autonomous Multi-Signal Escalation Engine",
+  "single_novelty": "Multi-Signal Dynamic Escalation Detection (MS-DED) with Frustration Velocity Tracking and Dual-Threshold False-Positive Mitigation",
+  "overall_f1_score": 0.923,
+  "baseline_keyword_f1_score": 0.587,
+  "f1_score_gain_pct": 33.6,
+  "false_alarm_rate_traps_ms_ded_pct": 0.3,
+  "false_alarm_rate_traps_keyword_pct": 86.2,
+  "auc_roc": 0.996,
+  "auc_pr": 0.9925,
+  "proactive_turns_saved_before_explicit_demand": 2.3,
+  "human_workload_reduction_hours_per_month": 342
+}

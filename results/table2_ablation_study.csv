@@ -1,0 +1,6 @@
+Configuration,Precision,Recall,F1_Score,Trap_False_Alarm_Pct,F1_Delta
+1. Full MS-DED Engine,0.934,0.912,0.923,4.2,0.00%
+2. Without False-Positive Filters,0.582,0.925,0.715,54.8,-22.53%
+3. Without EMA Frustration Velocity (dEMA/dt),0.841,0.748,0.792,12.4,-14.19%
+4. Without Paralinguistic Signals (Caps/Punct),0.887,0.862,0.874,7.8,-5.31%
+5. Static Keyword Trigger Only,0.495,0.72,0.587,71.5,-36.40%

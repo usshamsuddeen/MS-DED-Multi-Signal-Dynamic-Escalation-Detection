@@ -1,0 +1,9 @@
+Operational_Metric,MS_DED_System,Keyword_Trigger_Baseline
+Total Inbound Customer Messages,"10,000","10,000"
+Genuine Escalation Incidents,"1,240","1,240"
+Human Handoffs Initiated (Total),"1,328","2,070"
+False Alarms Routed to Human Staff,88,830
+False Alarm Reduction vs Keywords (%),89.4%,0.0% (Baseline)
+Human Agent Time Saved (Hours/Month),342 hrs,0 hrs
+Proactive Escalation Lead Time (Turns Ahead),2.3 turns,0.0 turns (Reactive)
+Estimated Customer Churn Reduction (%),28.4%,0.0%
